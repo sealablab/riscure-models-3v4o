@@ -1,5 +1,15 @@
 # riscure-models
 
+> [!IMPORTANT]
+> ## 🏠 Part of the BPD-Dev-3v4 Monorepo
+> This is a submodule of the **[BPD-Dev-3v4](https://github.com/sealablab/BPD-Dev-3v4)** monorepo ecosystem.
+>
+> **Parent Repository:** [`github.com/sealablab/BPD-Dev-3v4`](https://github.com/sealablab/BPD-Dev-3v4)
+> **Integration Context:** See [CLAUDE.md](https://github.com/sealablab/BPD-Dev-3v4/blob/main/CLAUDE.md) in parent repo
+> **Purpose:** Riscure EM-FI probe specifications and voltage safety validation
+
+---
+
 Pydantic models for Riscure FI/SCA probe specifications and Moku integration.
 
 ## Overview
